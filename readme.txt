@@ -14,3 +14,5 @@ vn.drawVector();ベクトルを描く
 an.drawAngle();角を描く
 
 あとはお好みで調整してください
+
+kawakami shota
